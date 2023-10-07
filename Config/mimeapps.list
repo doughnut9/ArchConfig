@@ -1,0 +1,5 @@
+[Default Applications]
+application/x-zerosize=vim.desktop
+
+[Added Associations]
+application/x-zerosize=vim.desktop;
